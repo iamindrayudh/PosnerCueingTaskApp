@@ -24,12 +24,21 @@
 ## Screenshots
 
 **Main Screen**  
-![Insert image here](#)  
+![Main Screen](images/MainScreen.png "Main Screen")
 _Description: Main screen with three buttons (Posner Cueing Task, My Data, Quit)._
 
 **Intermediate Screen**  
-![Insert image here](#)  
+![Instruction](images/Instruction.png "Instruction")
 _Description: Intermediate screen for setting the number of trials._
+
+**Task Screen**  
+![Task](images/PosnerScreen.png "Posner")
+_Description: Task screen for the main experiment._
+
+**CSV Export**  
+![Export](images/CSV.png "CSV")
+_Description: CSV File getting exported to the external memory_
+
 
 ---
 
@@ -63,12 +72,11 @@ _Description: Intermediate screen for setting the number of trials._
 ## File Format
 
 The exported CSV file contains the following columns:
-- **Trial Number**: The sequence of the trial.  
-- **Response Time**: The measured reaction time for each trial.  
-
 Sample:  
+![CSV](images/CSVFile.png "CSVFile")
+
 
 
 Contact
-For queries or feedback, please contact your_email@example.com.
+For queries or feedback, please contact indrayudhmandal2010@gmail.com
 
