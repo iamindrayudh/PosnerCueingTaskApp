@@ -46,7 +46,7 @@ _Description: CSV File getting exported to the external memory_
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/yourusername/posner-cueing-task.git
+   git clone https://github.com/iamindrayudh/PosnerCueingTaskApp.git
 
 2. Open the project in Android Studio.  
    - Ensure you have all required dependencies installed.  
